@@ -1,0 +1,4 @@
+Payment Module
+
+Payment method: UPI
+Payment gateway: Razorpay
