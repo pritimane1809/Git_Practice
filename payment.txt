@@ -1,4 +1,4 @@
 Payment Module
 
-Payment method: Credit Card
-Payment gateway: Stripe
+Payment methods: Credit Card, UPI
+Payment gateway: Stripe and Razorpay
